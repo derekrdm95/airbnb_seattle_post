@@ -12,3 +12,7 @@ The dataset was introduced by **Udacity - Data Scientest NanoDegree**. It is a o
 -  What are the busiest times of the year to visit Seattle? By how much do prices spike?
 -  Can we use other listing information to predict the housing price?
 -  The vibe of each Seattle neighborhood using listing descriptions?
+
+
+**Files in the Repository**
+-  **Seattle_Airbnb_Analysis.ipynb** :Notebook with detailed code and analysis of how these three questions are approached and tackled
