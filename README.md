@@ -5,7 +5,7 @@ The repository is the first repo I made on Github. I always aspired to become a 
 
 This repo is a great opportunity for me to try as a data scientist, completing the **Cross-Industry Standard Process for Data Mining (CRISP-DM)** (Business Understanding, Data Understanding, Prepare Data, Data Modeling, Evaluate the Results, Deploy)
 
-The dataset was introduced by Udacity - Data Scientest NanoDegree. It is a one-year Seattle Airbnb home listing data in 2016, which includes the listing price of the housing, and its housing information and review. 
+The dataset was introduced by **Udacity - Data Scientest NanoDegree**. It is a one-year Seattle Airbnb home listing data in 2016, which includes the listing price of the housing, and its housing information and review. 
 
 
 ***Three questions were defined and answered in our analysis***
